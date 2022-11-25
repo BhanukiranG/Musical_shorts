@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181131545103",
+    "project_id": "my-musical-shorts",
+    "storage_bucket": "my-musical-shorts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181131545103:android:2dce36ff7ac7cd4130317a",
+        "android_client_info": {
+          "package_name": "com.example.mymusicalshorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181131545103-p7aq6n4p69eqs1qnprdphbrvhm7soa2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDc7Z7O7fj7YCvN4lB6B-K6ISBJs9Wi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181131545103-p7aq6n4p69eqs1qnprdphbrvhm7soa2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
